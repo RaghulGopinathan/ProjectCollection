@@ -19,8 +19,4 @@ public class Student {
         return this.marks;
     }
 
-    @Override
-    public String toString(){
-        return "Id: "+id+", Name: "+name+", Marks: "+marks;
-    }
 }
